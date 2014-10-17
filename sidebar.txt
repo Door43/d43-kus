@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kus:home|Door43 (kus)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kus|d43-kus repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kus/archive/master.zip|d43-kus.zip]]
+
+**Recent Changes**
+{{changes>ns = kus}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kus|Ethnologue data]]
+
